@@ -76,8 +76,59 @@ nav {
 }
 .head2{
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.head-detail{
+  font-size: 16px;
 }
 .everything{
   margin-top: 50px;
   padding: 40px;
+  margin-bottom: 50px;
+}
+.everyhting2{
+  margin-top: 50px;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+  gap: 25px;
+  margin-left: 156px;
+  margin-right: 156px;
+  margin-top: 80px;
+}
+.container-detail{
+  padding: 30px;
+  border-radius: 5px;
+}
+.container-detail1{
+  background-color: rgba(255, 76, 30, 0.05);
+
+}
+.container-detail2{
+  background-color: rgba(0, 76, 232, 0.05);
+}
+.container-detail3{
+  background-color: rgba(255, 223, 0, 0.05);
+  
+}
+.link-tag{
+  font-size: 16px;
+  font-weight: bold;
+
+}
+.common-detail{
+  padding: 20px;
+  border-radius: 20px;
+
+
+}
+.vedio-detail{
+  background-color: rgba(13, 19, 33, 0.2);
+  background-size: contain;
+}
+.video-size{
+  padding-left: 200px;
+
 }

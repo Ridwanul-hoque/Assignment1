@@ -124,11 +124,13 @@ nav {
 
 
 }
-.vedio-detail{
-  background-color: rgba(13, 19, 33, 0.2);
-  background-size: contain;
-}
+/* .video-detail{
+  border-color: rgba(13, 19, 33, 0.2);
+  border-radius: 10px;
+  border-left: 20px;
+  border-right: 10px;
+} */
 .video-size{
-  padding-left: 200px;
+  padding-left: 500px;
 
 }
